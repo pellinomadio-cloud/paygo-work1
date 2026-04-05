@@ -1468,7 +1468,7 @@ const DashboardPage: React.FC = () => {
         navigate('/upgrade', { state: { name, email } });
       }
     } else if (id === 'group' || id === 'support') {
-      window.open("https://t.me/earnix9ja", "_blank");
+      window.open("https://t.me/chix9ja", "_blank");
     }
   };
 
@@ -1621,7 +1621,7 @@ const DashboardPage: React.FC = () => {
       
       {/* WhatsApp Chat Button Floating (matches screenshot) */}
       <button 
-        onClick={() => window.open("https://t.me/earnix9ja", "_blank")}
+        onClick={() => window.open("https://t.me/chix9ja", "_blank")}
         className="fixed bottom-5 right-5 w-12 h-12 bg-purple-600 text-white rounded-full shadow-2xl flex items-center justify-center z-[50] hover:scale-110 active:scale-95 transition-all"
       >
         <i className="fas fa-comment-dots text-xl"></i>
@@ -1636,11 +1636,11 @@ const DashboardPage: React.FC = () => {
             </div>
             <div>
               <p className="text-[10px] font-bold uppercase opacity-80">Join our community</p>
-              <p className="text-xs font-black">Join @earnix9ja on Telegram!</p>
+              <p className="text-xs font-black">Join @chix9ja on Telegram!</p>
             </div>
           </div>
           <button 
-            onClick={() => window.open("https://t.me/earnix9ja", "_blank")}
+            onClick={() => window.open("https://t.me/chix9ja", "_blank")}
             className="bg-white text-purple-600 text-[10px] font-bold px-3 py-1.5 rounded-full shadow-sm active:scale-95 transition-all"
           >
             JOIN
